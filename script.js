@@ -1,4 +1,4 @@
-var username = window.prompt('Digite seu nickname !');
+var username = window.prompt('Digite seu nome !');
 
 var apiKey = 'wVg9ep3IVxsi32VOmZTK4O5TvAdiOq8griSKcaVp';
 var piesocket = new WebSocket(`wss://free3.piesocket.com/v3/1?api_key=wVg9ep3IVxsi32VOmZTK4O5TvAdiOq8griSKcaVp&notify_self`);
